@@ -1,10 +1,14 @@
 '''
-Camera Classifier v0.1 Alpha
-Copyright (c) NeuralNine
+This is a Camera Classifier Code.
+We can use this for Image Classifier as well.(General Outline)
+We only need to update model.py:
+By Adjusting preprocessing and feature extraction techniques.
+By Training the classifier with appropriate model and dataset.
+camera.py:
+By Loading satellite images instead of camera frames.
+app.py:
+Update GUI elements for star identification context.
 
-Instagram: @neuralnine
-YouTube: NeuralNine
-Website: www.neuralnine.com
 '''
 
 import app
