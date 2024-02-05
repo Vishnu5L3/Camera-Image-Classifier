@@ -1,7 +1,6 @@
 '''
 This is a Camera Classifier Code.
-We can use this for Image Classifier as well.(General Outline)
-We only need to update model.py:
+We can use this for Image Classifier and almost the same code to identify celestial objects as well .We only need to update model.py:
 By Adjusting preprocessing and feature extraction techniques.
 By Training the classifier with appropriate model and dataset.
 camera.py:
